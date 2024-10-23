@@ -1,4 +1,4 @@
 # BookNest
 This is our first Git Repository
 <br>
-Author-Priyanka Karki,Subhadra Thapa,Subeksha Khanal
+Author-Subeksha Khanal,Priyanka Karki,Subhadra Thapa
